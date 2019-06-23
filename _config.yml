@@ -1,10 +1,10 @@
 # Site settings
-title: The arpchives, an arpbadger websites
+title: The Arpchive | an Arpbadger websites
 email: arpbadger@protonmail.com
 url: https://arpbadger.github.io
-description: "The arpchives is the arpbadgers official website, a place for information security projects, personal dev projects, and more."
+description: "The Arpchives is the Arpbadgers official website, a place for information security projects, personal dev projects, and more."
 keywords: "arpbadger,arpchives,infosec,cyber security,"
-skills: "Infosec Comsultant | Security Researcher | Developer | Raspberry Pi Enthusiast"
+skills: "Infosec Consultant | Security Researcher | Developer | Raspberry Pi Enthusiast"
 meta_author: arpbadger
 
 # Google webmaster tools
